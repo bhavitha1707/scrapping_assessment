@@ -1,0 +1,12 @@
+{
+    "execution_timestamp": "2026-10-07T03:21:14.875465",
+    "execution_time_seconds": 482.5,
+    "total_records_collected": 1100,
+    "records_rejected_validation": 0,
+    "duplicates_removed": 1,
+    "final_record_count": 1099,
+    "breakdown_by_source": {
+        "Books to Scrape": 999,
+        "Quotes to Scrape": 100
+    }
+}
